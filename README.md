@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CwispyCerealz
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Devvster
+- 👀 I’m interested in graphics programming and game development
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord(CwispyCerealz)
 
 <!---
 CwispyCerealz/CwispyCerealz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
